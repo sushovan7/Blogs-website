@@ -29,7 +29,7 @@ export class AuthService {
     }
   }
 
-  async login
+  async;
 }
 
 const authService = new AuthService();
